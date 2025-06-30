@@ -3,7 +3,7 @@ SimpleStorage-Storage Factory-AddFiveStorage contracts
 
 
 Getting Started
-Go to Remix
-Paste the code from SimpleStorage.sol, StorageFactory.sol, and AddFiveStorage.sol into a new file in Remix
-Hit Compile
-Hit Deploy for whatever contract you want.
+1. Go to Remix
+2. Paste the code from SimpleStorage.sol, StorageFactory.sol, and AddFiveStorage.sol into a new file in Remix
+3. Hit Compile
+4. Hit Deploy for whatever contract you want.
